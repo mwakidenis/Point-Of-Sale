@@ -13,7 +13,7 @@ For enduser use, check out the enduserguide.pdf file.
 Database .sql file is also included in the directory.
 
 <hr>
-
+ 
 # Libraries/Dependencies Used
 - Java FX
 - Jaspersoft iReport
